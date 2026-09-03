@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security and privacy reports
+    url: https://github.com/4dcitygml/.github/security/advisories/new
+    about: Report vulnerabilities, privacy concerns, or sensitive removal requests privately.
