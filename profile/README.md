@@ -33,8 +33,6 @@ to adopt data changes; tools maintainers review changes to the shared machinery.
 This operational work connects individual city cases with common standards:
 it turns rules into usable checks and procedures, and helps distinguish data
 and implementation errors from questions to raise with standards developers.
-Read [the approach](https://github.com/4dcitygml/tools/blob/main/docs/principles.md)
-([日本語](https://github.com/4dcitygml/tools/blob/main/docs/ja/principles.md)).
 
 Client releases (`hub-v`) provide Mac and Windows downloads. City tooling
 releases (`tools-v`) provide shared processing, checks, definitions and guidance.
