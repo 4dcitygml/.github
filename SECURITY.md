@@ -1,11 +1,18 @@
 # Security policy
 
+## Private report form
+
+All private reports go through GitHub's
+[private vulnerability reporting](https://github.com/4dcitygml/.github/security/advisories/new),
+also available in every 4dcitygml repository under Security → Report a
+vulnerability. Only maintainers can read submissions. Besides vulnerabilities,
+we accept privacy concerns, requests to remove sensitive material, and conduct
+reports there. The project has no public email address.
+
 ## Reporting a vulnerability
 
 Please do not open a public issue for a vulnerability that could expose users,
-credentials, repositories, or data. Use GitHub's
-[private vulnerability reporting](https://github.com/4dcitygml/.github/security/advisories/new) (also available in every 4dcitygml
-repository under Security → Report a vulnerability) and include:
+credentials, repositories, or data. Use the private report form and include:
 
 - the affected repository, version, commit, or release;
 - the observed and expected behavior;

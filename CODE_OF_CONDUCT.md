@@ -26,8 +26,9 @@ Disagreement about data and design is expected; personal hostility is not.
 
 This policy applies in project repositories, issues, pull requests, discussions,
 and project-related public communication. Report conduct concerns privately through the
-[private report form](https://github.com/4dcitygml/.github/security/advisories/new) — GitHub's private vulnerability reporting, which we
-also accept for conduct reports. Do not include sensitive details in a public issue.
+[private report form](https://github.com/4dcitygml/.github/security/advisories/new)
+described in [SECURITY.md](SECURITY.md). Do not include sensitive details in a
+public issue.
 
 Maintainers will review reports in context, limit access to the report, and take
 proportionate action. Actions may include a private warning, content removal,

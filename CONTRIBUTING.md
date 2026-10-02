@@ -15,7 +15,8 @@ Submitting city-data PRs from your own tool, script, or the GitHub web UI —
 without the official editors — is explicitly welcome. The machine contract
 (reason anchor, commit trailers, editing style, CI gates) is published in the
 [PR Exchange Contract](https://github.com/4dcitygml/tools/blob/main/docs/exchange-contract.md),
-and the practice repositories serve as a sandbox for client developers.
+and the practice repositories (`4dcitygml/sample-tokyo-station` and the other
+sample stations) serve as a sandbox for client developers.
 
 ## Before submitting
 
@@ -47,7 +48,7 @@ vehicle plates, nameplates, interiors, and other personal information. The city
 repository's explicit contribution terms govern any rights in submitted data or images.
 
 To request removal of published material that contains personal data or content
-you hold rights to, use the private report form (see [SUPPORT.md](SUPPORT.md))
+you hold rights to, use the private report form (see [SECURITY.md](SECURITY.md))
 instead of opening a public issue.
 
 ## Review and conduct
