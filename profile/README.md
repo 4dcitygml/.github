@@ -11,33 +11,10 @@ through the same cycle, informed by cases from those cities.
 
 ## Start here
 
-- [Portal](https://4dcitygml.github.io/) — browse cities and find downloads
-- [Tools](https://github.com/4dcitygml/tools) — Hub, editors, shared processing, checks, definitions and guidance
-- [City template](https://github.com/4dcitygml/city-template) — start an independent city repository
-- [Tokyo Station](https://github.com/4dcitygml/sample-tokyo-station) ·
-  [Munich Hauptbahnhof](https://github.com/4dcitygml/sample-munich-station) ·
-  [Grand Central](https://github.com/4dcitygml/sample-newyork-station) — compact demonstration datasets
-
-## How the repositories fit together
-
-`city-template` supplies the starting structure. Each city repository then
-maintains its own source-compatible CityGML and history, while pinning a reviewed
-version of `tools` for checks and local editing. Generated CityGML editions are
-published as derived releases rather than replacing the canonical source data.
-
-4dcitygml gathers reusable findings from city issues and pull requests and
-returns improvements through common tools releases. Cities can also consult
-the project directly about shared-tool problems. Cities retain the decision
-to adopt data changes; tools maintainers review changes to the shared machinery.
-
-This operational work connects individual city cases with common standards:
-it turns rules into usable checks and procedures, and helps distinguish data
-and implementation errors from questions to raise with standards developers.
-
-Client releases (`hub-v`) provide Mac and Windows downloads. City tooling
-releases (`tools-v`) provide shared processing, checks, definitions and guidance.
-They have different adoption paths and can advance independently; see the
-[distribution status](https://github.com/4dcitygml/tools/blob/main/docs/shared-tooling-release.md).
+- [Portal](https://4dcitygml.github.io/) — overview, repositories and the list of cities
+- [Cities](https://4dcitygml.github.io/cities.html)
+- [Tools](https://github.com/4dcitygml/tools)
+- [City template](https://github.com/4dcitygml/city-template)
 
 Contributions and issue reports are welcome. Please use the repository that owns
 the relevant code or data, and read its source attribution and contribution rules
